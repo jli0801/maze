@@ -1,0 +1,16 @@
+mvf
+mwr
+mwr
+mwr
+RP 1 6
+mvf
+RP 1 10
+mvl 
+cwl
+bjpi
+cwf
+bjpi
+mwl
+mwl
+mwl
+cwf
